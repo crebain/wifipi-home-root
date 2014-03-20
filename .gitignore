@@ -2,4 +2,4 @@ syntax: glob
 
 *.h264
 *.jpg
-
+.ssh/id_rsa
