@@ -1,0 +1,6 @@
+/root/stream_ffmpeg.sh 3;30;41
+/etc/ffserver.conf 21;15;456
+/etc/xsp/xsp.webapp 1;0;0
+/etc/netctl/wireless-adhoc 6;0;92
+/etc/netctl/examples/wireless-open 1;0;0
+/etc/netctl/wireless-home 1;0;0
